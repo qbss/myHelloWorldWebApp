@@ -1,0 +1,2 @@
+# myHelloWorldWebApp
+.Net Core myHelloWorldWebApp
